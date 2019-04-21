@@ -1,0 +1,21 @@
+<html>
+<head>
+  <title>WETICE | Добавление статьи</title>
+</head>
+<body>
+<h3><em>Новая статья:</em></h3>
+<%= form_for :article, url: articles_path do |f| %>
+<p>
+  Название статьи:<br/>
+  <%= f.text_field :title %>
+</p>
+  <p>
+    Текст статьи:<br/>
+    <%= f.text_area :body %>
+  </p>
+  <p>
+    <%= f.submit 'Добавить статью' %>
+  </p>
+<% end %>
+</body>
+</html>
