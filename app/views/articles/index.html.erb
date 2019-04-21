@@ -3,6 +3,12 @@
   <title>WETICE | Статьи</title>
 </head>
 <body>
-<h2><em>Статьи</em></h2>
+<h1><em>Статьи</em></h1>
+<% @article.each do |article| %>
+  <h3><%= article.title %></h3>
+  <%= article.body %>
+
+<% end %>
+<%= yield %>
 </body>
 </html>

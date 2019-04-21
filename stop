@@ -1,0 +1,23 @@
+[33mcommit d3b45abe0a3caaa554818c2bcbac3f55f1292ad6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: bknGC <bkngg@yandex.ru>
+Date:   Sun Apr 21 21:08:21 2019 +0300
+
+    upd 0.4 - Добавлен функционал для создания и просмотра статей.
+
+[33mcommit ce7b02ade09cc352d8fd71ae7881d81d877ac2e9[m
+Author: bknGC <bkngg@yandex.ru>
+Date:   Sun Apr 21 19:16:50 2019 +0300
+
+    upd 0.3 - Добавлен Pages controller / Добавлена страница about / Настроен routes.
+
+[33mcommit 305ec750e345fb31483d9b67c4d9b0b2832e5df7[m
+Author: bknGC <bkngg@yandex.ru>
+Date:   Sun Apr 21 19:06:31 2019 +0300
+
+    second commit
+
+[33mcommit 1daa90e28aa4b657e71e496da8aad5ec255420e5[m
+Author: bknGC <bkngg@yandex.ru>
+Date:   Sun Apr 21 18:36:27 2019 +0300
+
+    first commit
